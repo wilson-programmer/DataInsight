@@ -1,0 +1,25 @@
+OSName,PercApr22,ChangeApr22,Type 
+Windows 10 64 bit,73.55,-1.14,Windows
+Windows 11 64 bit,18.94,+2.10,Windows
+Windows 7 64 bit,2.93,-1.21,Windows
+Windows 8.1 64 bit,0.57,0.00,Windows
+Windows 7,0.17,+0.01,Windows
+Windows 10,0.07,0.00,Windows
+MacOS 12.3.1 64 bit,0.46,+0.46,OSX
+MacOS 12.2.1 64 bit,0.44,-0.28,OSX
+MacOS 10.15.7 64 bit,0.22,0.00,OSX
+MacOS 12.3.0 64 bit,0.21,+0.08,OSX
+MacOS 12.1.0 64 bit,0.16,-0.06,OSX
+MacOS 12.0.1 64 bit,0.14,-0.02,OSX
+MacOS 10.13.6 64 bit,0.12,0.00,OSX
+MacOS 10.14.6 64 bit,0.11,0.00,OSX
+MacOS 11.6.0 64 bit,0.10,-0.03,OSX
+MacOS 11.6.4 64 bit,0.06,-0.01,OSX
+MacOS 11.5.2 64 bit,0.06,-0.01,OSX
+MacOS 11.6.5 64 bit,0.05,+0.05,OSX
+MacOS 11.4.0 64 bit,0.05,-0.01,OSX
+Ubuntu 20.04.4 LTS 64 bit,0.16,+0.03,Linux
+"Arch Linux" 64 bit,0.14,+0.02,Linux
+"Manjaro Linux" 64 bit,0.13,+0.01,Linux
+Linux Mint 20.3 64 bit,0.07,0.00,Linux
+Ubuntu 21.10 64 bit,0.06,-0.01,Linux
